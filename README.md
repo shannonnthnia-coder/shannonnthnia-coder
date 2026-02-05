@@ -1,7 +1,9 @@
 # Hi, I'm Shannon ‼️
 
 ## 💫 About Me:
-💻 Undergraduate Data Science student at Hanyang University<br><br>🔭 I’m currently working on<br><br>- End-to-end time-series projects: preprocessing, modeling, forecasting, and anomaly detection<br><br>- Machine Learning & Deep Learning projects in Python<br><br>- Data analysis and experimentation with real-world datasets<br><br>🤝 I’m looking to collaborate on<br><br>- Machine Learning / AI projects<br><br>- Forecasting or data science research<br><br>- Open-source Python projects<br><br>🆘 I’m looking for help with<br><br>- Improving model robustness & evaluation<br><br>- Advanced deep learning architectures<br><br>- Deploying ML models<br><br>🌱 I’m currently learning<br><br>- Building smarter deep learning models for time-series data<br><br>- Turning experimental ML models into something that actually generalizes<br><br>- Optimization tricks to squeeze more performance out of neural networks<br>
+💻 Undergraduate Data Science student at Hanyang University<br><br>
+🌱 I'm new on Git but not on coding !<br><br>
+🔭 I’m currently working on<br><br>- End-to-end time-series projects: preprocessing, modeling, forecasting, and anomaly detection<br><br>- Machine Learning & Deep Learning projects in Python<br><br>- Data analysis and experimentation with real-world datasets<br><br>🤝 I’m looking to collaborate on<br><br>- Machine Learning / AI projects<br><br>- Forecasting or data science research<br><br>- Open-source Python projects<br><br>🆘 I’m looking for help with<br><br>- Improving model robustness & evaluation<br><br>- Advanced deep learning architectures<br><br>- Deploying ML models<br><br>🌱 I’m currently learning<br><br>- Building smarter deep learning models for time-series data<br><br>- Turning experimental ML models into something that actually generalizes<br><br>- Optimization tricks to squeeze more performance out of neural networks<br>
 
 
 ## 🌐 Socials:
